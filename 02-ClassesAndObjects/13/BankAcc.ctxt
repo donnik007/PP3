@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BankAcc
+comment1.params=
+comment1.target=void\ moneyStatus()
+comment2.params=
+comment2.target=void\ showNum()
+comment3.params=
+comment3.target=void\ isCredit()
+numComments=4
