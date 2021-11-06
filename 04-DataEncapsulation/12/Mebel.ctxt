@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Mebel
+comment1.params=rodzaj
+comment1.target=void\ setRodzaj(java.lang.String)
+comment2.params=nazwa
+comment2.target=void\ setNazwa(java.lang.String)
+comment3.params=czyNowy
+comment3.target=void\ setStan(boolean)
+comment4.params=wiek
+comment4.target=void\ setWiek(int)
+comment5.params=
+comment5.target=java.lang.String\ getRodzaj()
+comment6.params=
+comment6.target=java.lang.String\ getNazwa()
+comment7.params=
+comment7.target=boolean\ getStan()
+comment8.params=
+comment8.target=int\ getWiek()
+numComments=9
