@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=purshProd
+comment1.params=prod
+comment1.target=void\ setProd(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getProd()
+comment3.params=buyer
+comment3.target=void\ setBuyer(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getBuyer()
+comment5.params=buyer\ prod
+comment5.target=purshProd(java.lang.String,\ java.lang.String)
+comment6.params=
+comment6.target=void\ main()
+numComments=7

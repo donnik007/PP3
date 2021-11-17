@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MobilePhone
+comment1.params=number
+comment1.target=void\ call(float)
+comment2.params=
+comment2.target=void\ turnOn()
+comment3.params=
+comment3.target=void\ turnOff()
+numComments=4

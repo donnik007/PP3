@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Pizza
+comment1.params=type\ name\ cooker\ price
+comment1.target=Pizza(java.lang.String,\ java.lang.String,\ java.lang.String,\ float)
+comment10.params=disco
+comment10.target=void\ getDiscont(float)
+comment11.params=
+comment11.target=java.lang.String\ info()
+comment12.params=
+comment12.target=void\ main()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getType()
+comment5.params=type
+comment5.target=void\ setType(java.lang.String)
+comment6.params=
+comment6.target=float\ getPrice()
+comment7.params=price
+comment7.target=void\ setPrice(float)
+comment8.params=
+comment8.target=java.lang.String\ getCooker()
+comment9.params=cooker
+comment9.target=void\ setCooker(java.lang.String)
+numComments=13
