@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Computer
+comment1.params=disc\ rom\ proc\ ram
+comment1.target=Computer(java.lang.String,\ int,\ Processor,\ int)
+comment2.params=
+comment2.target=void\ turnOn()
+comment3.params=
+comment3.target=void\ turnOff()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
