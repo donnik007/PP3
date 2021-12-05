@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Publisher
+comment1.params=name\ city
+comment1.target=Publisher(java.lang.String,\ java.lang.String)
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=city
+comment3.target=void\ setCity(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.String\ getCity()
+numComments=6
