@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Truck
+comment1.params=seats\ model\ isNew\ weight
+comment1.target=Truck(int,\ java.lang.String,\ boolean,\ float)
+comment2.params=
+comment2.target=void\ drive()
+comment3.params=
+comment3.target=void\ main()
+numComments=4
