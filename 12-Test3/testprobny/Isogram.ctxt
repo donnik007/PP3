@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Isogram
+comment1.params=x
+comment1.target=boolean\ isogram(java.lang.String)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

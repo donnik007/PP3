@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Logic
+comment1.params=array
+comment1.target=Logic(boolean[])
+comment2.params=
+comment2.target=int\ opposite()
+comment3.params=
+comment3.target=void\ main()
+numComments=4

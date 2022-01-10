@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cities
+comment1.params=names
+comment1.target=Cities(java.lang.String[])
+comment2.params=charakter
+comment2.target=Cities\ filter(char)
+comment3.params=
+comment3.target=java.lang.String\ cities()
+comment4.params=
+comment4.target=void\ main()
+numComments=5
